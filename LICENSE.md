@@ -1,4 +1,4 @@
-# 
+# مخصص JetBrains PyCharm سمات لـ Mac OS | آلي JetBrains PyCharm سمات لـ PC Windows. مع دعم GraphQL و مراجعة الكود — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
